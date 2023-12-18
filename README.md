@@ -1,1 +1,1 @@
-# end-to-end-chest-classification-using-mlflow-and-dvc
+# end-to-end-chest-cancer-classification-using-mlflow-and-dvc
