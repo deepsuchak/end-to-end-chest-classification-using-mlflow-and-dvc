@@ -13,3 +13,10 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
+''' cmd
+set MLFLOW_TRACKING_URI=https://dagshub.com/deepsuchak/end-to-end-chest-classification-using-mlflow-and-dvc.mlflow 
+set MLFLOW_TRACKING_USERNAME=deepsuchak 
+set MLFLOW_TRACKING_PASSWORD=1bae85f3cea917e576bbd13345890a218661c7ce 
+'''
+- before running make sure to remove artifacts,dvc.lock and .dvc
+- just keep dvc.yaml

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sucha/end-to-end-chest-classification-using-mlflow-and-dvc/mlruns/0/fcc0b92eb97e4d5dbe7e19a0ab9b75ad/artifacts
+end_time: 1703052675425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcc0b92eb97e4d5dbe7e19a0ab9b75ad
+run_name: burly-conch-366
+run_uuid: fcc0b92eb97e4d5dbe7e19a0ab9b75ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703052652197
+status: 3
+tags: []
+user_id: sucha

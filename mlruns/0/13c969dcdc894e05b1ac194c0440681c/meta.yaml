@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sucha/end-to-end-chest-classification-using-mlflow-and-dvc/mlruns/0/13c969dcdc894e05b1ac194c0440681c/artifacts
+end_time: 1703055778221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13c969dcdc894e05b1ac194c0440681c
+run_name: salty-snipe-939
+run_uuid: 13c969dcdc894e05b1ac194c0440681c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703055756975
+status: 3
+tags: []
+user_id: sucha
