@@ -1,6 +1,16 @@
 # end-to-end-chest-cancer-classification-using-mlflow-and-dvc
 
 
+![1](https://github.com/deepsuchak/end-to-end-chest-classification-using-mlflow-and-dvc/assets/59730856/3fe2b5ce-403b-44ce-b196-9f95eb95dcdb)
+
+
+
+
+![2](https://github.com/deepsuchak/end-to-end-chest-classification-using-mlflow-and-dvc/assets/59730856/e334a6b7-a8f0-4437-9527-8439240d1785)
+
+
+![3](https://github.com/deepsuchak/end-to-end-chest-classification-using-mlflow-and-dvc/assets/59730856/54c38353-3ccf-47aa-b9b2-219cc5d1bc45)
+
 
 ## Workflows
 1. Update config.yaml
